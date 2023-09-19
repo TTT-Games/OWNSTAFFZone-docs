@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to the Documentation Page of TTT-Games!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**TTT-Games** (ˈtiˈtiˈtiˈɡeɪmz) or in long expression Trouble in TuxTown Games is a Organisation that is focused on Minecraft Plugin Development. They also serves plattforms to little and/or new Minecraft Serverteams that needs structure to plan or only a website to host.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
