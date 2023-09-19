@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'TTT-Games'
+copyright = '2023, SLINIcraftet204 and Haeherfeder'
+author = 'SLINIcraftet204'
 
 release = '0.1'
 version = '0.1.0'
